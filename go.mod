@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/h0bbel/streetart
 
 go 1.19
 

@@ -1,5 +1,5 @@
-baseURL      = "https://www.example.com/"
-title        = "Gallery Deluxe"
+baseURL      = "rainbow-kelpie-286b6d.netlify.app"
+title        = "StreetArt by h0bbel"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
